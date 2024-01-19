@@ -14,7 +14,7 @@ setup(
     ],
     install_requires=[
          "metaflow"
-    ]
+    ],
     package_data={"": ["scatter.js", "three.js", "base.html"]},
     include_package_data=True
 )
